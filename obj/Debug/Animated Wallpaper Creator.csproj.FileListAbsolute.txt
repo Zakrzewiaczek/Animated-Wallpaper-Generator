@@ -1,0 +1,10 @@
+C:\Users\jakub.zakrzewski\Desktop\visual studio\Animated Wallpaper Creator\bin\Debug\Animated Wallpaper Creator.exe.config
+C:\Users\jakub.zakrzewski\Desktop\visual studio\Animated Wallpaper Creator\bin\Debug\Animated Wallpaper Creator.exe
+C:\Users\jakub.zakrzewski\Desktop\visual studio\Animated Wallpaper Creator\bin\Debug\Animated Wallpaper Creator.pdb
+C:\Users\jakub.zakrzewski\Desktop\visual studio\Animated Wallpaper Creator\obj\Debug\Animated Wallpaper Creator.csproj.AssemblyReference.cache
+C:\Users\jakub.zakrzewski\Desktop\visual studio\Animated Wallpaper Creator\obj\Debug\Animated_Wallpaper_Creator.Form1.resources
+C:\Users\jakub.zakrzewski\Desktop\visual studio\Animated Wallpaper Creator\obj\Debug\Animated_Wallpaper_Creator.Properties.Resources.resources
+C:\Users\jakub.zakrzewski\Desktop\visual studio\Animated Wallpaper Creator\obj\Debug\Animated Wallpaper Creator.csproj.GenerateResource.cache
+C:\Users\jakub.zakrzewski\Desktop\visual studio\Animated Wallpaper Creator\obj\Debug\Animated Wallpaper Creator.csproj.CoreCompileInputs.cache
+C:\Users\jakub.zakrzewski\Desktop\visual studio\Animated Wallpaper Creator\obj\Debug\Animated Wallpaper Creator.exe
+C:\Users\jakub.zakrzewski\Desktop\visual studio\Animated Wallpaper Creator\obj\Debug\Animated Wallpaper Creator.pdb
