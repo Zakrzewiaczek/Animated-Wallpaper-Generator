@@ -8,3 +8,13 @@ C:\Users\jakub.zakrzewski\Desktop\visual studio\Animated Wallpaper Creator\obj\D
 C:\Users\jakub.zakrzewski\Desktop\visual studio\Animated Wallpaper Creator\obj\Debug\Animated Wallpaper Creator.csproj.CoreCompileInputs.cache
 C:\Users\jakub.zakrzewski\Desktop\visual studio\Animated Wallpaper Creator\obj\Debug\Animated Wallpaper Creator.exe
 C:\Users\jakub.zakrzewski\Desktop\visual studio\Animated Wallpaper Creator\obj\Debug\Animated Wallpaper Creator.pdb
+C:\Users\jzakr\Desktop\Avast off\Animated-Wallpaper-Generator-main\bin\Debug\Animated Wallpaper Creator.exe.config
+C:\Users\jzakr\Desktop\Avast off\Animated-Wallpaper-Generator-main\bin\Debug\Animated Wallpaper Creator.exe
+C:\Users\jzakr\Desktop\Avast off\Animated-Wallpaper-Generator-main\bin\Debug\Animated Wallpaper Creator.pdb
+C:\Users\jzakr\Desktop\Avast off\Animated-Wallpaper-Generator-main\obj\Debug\Animated Wallpaper Creator.csproj.AssemblyReference.cache
+C:\Users\jzakr\Desktop\Avast off\Animated-Wallpaper-Generator-main\obj\Debug\Animated_Wallpaper_Creator.Form1.resources
+C:\Users\jzakr\Desktop\Avast off\Animated-Wallpaper-Generator-main\obj\Debug\Animated_Wallpaper_Creator.Properties.Resources.resources
+C:\Users\jzakr\Desktop\Avast off\Animated-Wallpaper-Generator-main\obj\Debug\Animated Wallpaper Creator.csproj.GenerateResource.cache
+C:\Users\jzakr\Desktop\Avast off\Animated-Wallpaper-Generator-main\obj\Debug\Animated Wallpaper Creator.csproj.CoreCompileInputs.cache
+C:\Users\jzakr\Desktop\Avast off\Animated-Wallpaper-Generator-main\obj\Debug\Animated Wallpaper Creator.exe
+C:\Users\jzakr\Desktop\Avast off\Animated-Wallpaper-Generator-main\obj\Debug\Animated Wallpaper Creator.pdb
